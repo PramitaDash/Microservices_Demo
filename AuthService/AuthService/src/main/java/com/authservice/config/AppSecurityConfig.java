@@ -1,0 +1,4 @@
+package com.authservice.config;
+
+public class AppSecurityConfig {
+}

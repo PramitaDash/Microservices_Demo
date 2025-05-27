@@ -1,0 +1,4 @@
+package com.authservice.dto;
+
+public class LoginDto {
+}
